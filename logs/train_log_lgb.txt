@@ -1,0 +1,5 @@
+Mean Squared Error: 0.004833
+Root Mean Squared Error: 0.069520
+R² Score: 0.990315
+Regression Accuracy: 96.26%
+Testing RMSE: 0.069520
