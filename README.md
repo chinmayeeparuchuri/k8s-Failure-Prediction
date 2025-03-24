@@ -1,4 +1,4 @@
-# 🚀 Kubernetes Failure Prediction using AI/ML  
+#  Kubernetes Failure Prediction using AI/ML  
 
 ![Kubernetes AI Failure Prediction](https://img.shields.io/badge/Kubernetes-AI--ML%20Failure%20Prediction-blue?style=for-the-badge&logo=kubernetes)  
 
