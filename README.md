@@ -11,7 +11,6 @@ This model enables proactive issue resolution, reducing downtime and improving c
 
 ---
 
-## 📁 Project Structure
 
 ## 📁 Project Structure
 
